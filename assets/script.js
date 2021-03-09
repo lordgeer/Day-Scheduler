@@ -1,10 +1,10 @@
 // Table of Contents
-// 
+// -------------------------
 // 1: Date for Header
 // 2: Write to storage function
 // 3: Moment JS funtions
 // 4: Local storage retrieval
-
+// -------------------------------------------------------------
 // 1: Date for the header
 var todayDate = moment().format('dddd, MMM Do YYYY');
 $("#currentDay").html(todayDate);
